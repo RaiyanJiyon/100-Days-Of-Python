@@ -1,0 +1,1 @@
+print(f"Multiplication of {num} with 1 to 10: ")

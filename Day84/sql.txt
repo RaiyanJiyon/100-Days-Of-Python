@@ -1,0 +1,5 @@
+The analysis and discussion involved making changes to a bank database. First, a new "Email" column was added to the "customer" table, and values were set for this new column. Then, the "customer_city" column was renamed to "city" in the "customer" table. Simultaneously, the data type of the "assets" column in the "branch" table was modified. These changes were made to enhance the database's functionality and data organization. Renaming and modifying data types can improve data consistency and querying capabilities, while adding new columns like "Email" allows for additional customer information to be stored. This demonstrates the flexibility of SQL in adapting databases to evolving needs.
+
+
+
+
