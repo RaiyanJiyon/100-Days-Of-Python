@@ -1,0 +1,2 @@
+# Season Checker:
+# Write a Python program that takes a month as input from the user and uses a match case statement to print the corresponding season (Spring, Summer, Autumn, or Winter). Assume that December, January, and February are winter months, March, April, and May are spring months, and so on.

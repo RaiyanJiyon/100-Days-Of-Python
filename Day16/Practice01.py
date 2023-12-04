@@ -1,0 +1,2 @@
+# Day of the Week:
+# Write a Python program that takes a number representing the day of the week (1 for Monday, 2 for Tuesday, and so on) as input from the user. Use a match case statement to print the corresponding day of the week. If the input is not in the range 1-7, print "Invalid input."

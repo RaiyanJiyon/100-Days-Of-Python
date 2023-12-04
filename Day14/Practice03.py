@@ -1,0 +1,2 @@
+# Password Checker:
+# Write a simple Python program for a password checker. Ask the user to enter a password, and then check if it meets the following criteria: it should be at least 8 characters long, contain both uppercase and lowercase letters, and include at least one digit. Provide appropriate messages based on whether the password is valid or not.

@@ -1,0 +1,2 @@
+# Positive, Negative, or Zero:
+# Create a Python program that prompts the user to enter a number and then checks whether the number is positive, negative, or zero. Print the appropriate message accordingly. For example, if the user enters 5, the output should be "The number is positive."

@@ -14,7 +14,7 @@ print("Mango is a", len1, "letter word.")
 <h3>Output:</h3>
 Mango is a 5 letter word. <br>
 
-<h3>String as an array</h3>
+<h3>String as an array-</h3>
 
 A string is essentially a sequence of characters also called an array. Thus we can access the elements of this array.
 

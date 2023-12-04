@@ -1,0 +1,2 @@
+# User Input Validation:
+# Write a Python program that prompts the user to enter a positive number. Use a while loop to keep prompting the user until a positive number is entered. Print the final valid input.

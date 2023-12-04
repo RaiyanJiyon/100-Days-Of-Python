@@ -125,7 +125,7 @@ print(str1.center(50))
 <h3>Output:</h3>
             Welcome to the Console!!! <br>
 
-
+<br>
 We can also provide padding character. It will fill the rest of the fill characters provided by the user.
 
 <h3>Example:</h3>
@@ -202,6 +202,7 @@ print(str1.find("is"))
 
 <h3>Output:</h3>
 10
+
 <br>
 
 As we can see, this method is somewhat similar to the index() method. The major difference being that index() raises an exception if value is absent whereas find() does not.
