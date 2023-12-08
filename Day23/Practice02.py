@@ -1,0 +1,2 @@
+# List Filtering:
+# Create a Python program that prompts the user to enter a list of words. The program should then remove all words that are less than 5 characters long and print the modified list. Utilize list methods to achieve this.

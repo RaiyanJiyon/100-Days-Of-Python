@@ -1,0 +1,2 @@
+# List Manipulation:
+# Write a Python function that takes a list of integers as input and returns a new list where each element is squared. Use list methods to modify the original list in place and avoid creating a new one.

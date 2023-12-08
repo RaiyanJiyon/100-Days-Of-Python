@@ -1,0 +1,2 @@
+# Tuple Unpacking:
+# Create a program that takes a list of tuples, where each tuple represents a person's name and age. Write a function that unpacks these tuples and prints the names of individuals who are older than a specified age (e.g., 25). The input list may look like [('Alice', 23), ('Bob', 30), ('Charlie', 22), ('David', 28)].

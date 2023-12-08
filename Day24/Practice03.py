@@ -1,0 +1,2 @@
+# Immutable Swap:
+# Implement a function that takes two tuples as input and returns a new tuple with the elements swapped. However, the implementation should not use a temporary variable or mutable data structures (e.g., lists). For example, if the input is (1, 2) the output should be (2, 1).

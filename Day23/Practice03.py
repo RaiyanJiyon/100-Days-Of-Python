@@ -1,0 +1,2 @@
+# List Sorting:
+# Write a Python function that accepts a list of strings and sorts them in ascending order based on their lengths. Make use of the list sorting method to implement this. If two strings have the same length, maintain their original order in the sorted list.
